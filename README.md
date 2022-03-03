@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rak54
+- 👋 Hi, I’m Rashid Ali
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working as a Mobile Application Developer
 - 💞️ I’m looking to collaborate on ...
